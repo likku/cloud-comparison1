@@ -1,0 +1,29 @@
+	Amazon AWS	Google AppEngin	Microsoft Azure	IBM Smart Business Dev.
+focus	Infrastructure	Platform	Platform,
+Infrastructure	Infrastructure 
+Infrastructure and virtualization architecture	OS level running on a xen hypervisor	Application container	OS level through fabric controller	Open cloud infrastructure
+Platforms	AWS	Google cloud platform (GCP)	Microsoft cloud application platform	Soft layer platform
+Persistent Storage	Simple DB, S3, RDS	Non-relational storage	Non-relational storage	CDP persistent storage manager
+Monitoring	Amazon cloud watch	System status dashboard	Azure management portal	Tivoli monitoring
+Load Balancing	Elastic	Server side load balancing	DNS level and network level load balancing	IBM iFlow director
+Message Queues	Simple Queue Service	Pull and Push queues	Azure queues, Service bus queues	Websphere
+Development Tools	AWS toolkit for Eclipse
+AWS management console
+AWS toolkit for visual studio	Eclipse rich AJAX platform (RAP)  Virtualization wrappers	Visual Studio and SDK	RAD, RSA, RDA, RSM, RWD
+Integration with other services	Dynamo DB	GData, GAE Data store, Social graph API, google accounts	Cloud SQL, URL fetch, Memchache, Cloud storage, Email XMPP, data storage 	Filesystem, Redis, Memcache, RabbitMQ
+Web APIs	REST API	Task queue REST API	ASP.NET	Websphere cast iron live web API
+Programming Framework	Customizable linux based Amazon machine image (AMI)	Python	Microsoft.NET	Enterprise Java platform
+Pricing	Machine CPU	$0.085-$3.16/hr	$0.10/hr	$0.12/hr	$0.30/hr
+	Storage	$0.10/GB/month	$0.15/GB/month	$0.15/GB/month	0.1536/hr
+	I/O	$0.10/million	$0.10/hr	$0.10/hr	$0.10/hr
+	Bandwidth	Incoming $0.10/GB
+Outgoing $0.12/GB
+	Incoming $0.10/GB
+Outgoing $0.12/GB
+	Incoming $0.10/GB
+Outgoing $0.15/GB
+	Incoming $0.10/GB
+Outgoing $0.12/GB
+
+
+Cloud Computing Platforms Comparison
